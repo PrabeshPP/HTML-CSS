@@ -1,3 +1,40 @@
-h1{
-    color: purple;
+
+/* External File */
+/* .myFirstID{
+    text-align: center;
+    color: crimson;
+    
+    
+
+} */
+*{
+    margin: 0;
+    
+
+}
+.backImg{
+    width: 100%;
+    height: 100vh;
+    background-color: crimson;
+    background-image: url("orange.png");
+    background-repeat: no-repeat;
+    background-size: 50ch;
+    background-attachment: fixed;
+}
+.backImg1{
+    width: 100%;
+    height: 100vh;
+    background-color: crimson;
+    background-image: url("car.png");
+    background-repeat: no-repeat;
+    background-size: 50ch;
+    background-attachment: fixed;
+}
+
+#fontsCSS{
+    font-style: italic;
+    text-align: center;
+    font-family: 'Pushster', cursive;
+    font-size: 3em;
+ 
 }
