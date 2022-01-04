@@ -10,7 +10,6 @@
 *{
     margin: 0;
     
-
 }
 .backImg{
     width: 100%;
@@ -30,7 +29,7 @@
     background-size: 50ch;
     background-attachment: fixed;
 }
-
+/* Font CSS */
 #fontsCSS{
     font-style: italic;
     text-align: center;
@@ -38,3 +37,34 @@
     font-size: 3em;
  
 }
+/* text css */
+#textCSS{
+    text-align: center;
+    font-family: 'Pushster', cursive;
+    letter-spacing: 5px;
+    direction: ltr;
+    text-indent: 100px;
+    text-transform: uppercase;
+    word-spacing: 10px;
+    
+
+}
+/* Link Color */
+
+a:link{
+    color: crimson;
+}
+a:hover{
+    color: green;
+
+}
+a:visited{
+    color: orange;
+}
+a:active{
+    color: blue;
+}
+
+/* Border Radius */
+
+
