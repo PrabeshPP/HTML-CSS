@@ -92,6 +92,11 @@ ol{
     width: 300px;
     height: 100px;
     text-decoration: violet;
+   
+}
+input{
+    padding-left:20px;
+    margin: 20px;
 }
 
 
