@@ -87,6 +87,11 @@ ol{
 }
 
 /* Box Model CSS */
-
+.boxModel{
+    background-color: teal;
+    width: 300px;
+    height: 100px;
+    text-decoration: violet;
+}
 
 
