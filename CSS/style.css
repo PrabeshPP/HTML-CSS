@@ -98,5 +98,9 @@ input{
     padding-left:20px;
     margin: 20px;
 }
+p{
+    width: 200px;
+    height: 200px;
+}
 
 
