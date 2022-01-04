@@ -66,5 +66,27 @@ a:active{
 }
 
 /* Border Radius */
+.borderCSS{
+    text-align: center;
+    width: 500px;
+    height: 300px;
+    background-color: red;
+    border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+    border-radius: 10px;
+    
+}
+
+ul{
+    list-style-type:square;
+}
+/* List css */
+ol{
+    list-style-type:upper-roman;
+}
+
+/* Box Model CSS */
+
 
 
