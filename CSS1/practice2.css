@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+
+nav{
+    background-color: blue;
+    height: 12vh;
+}
+
+ul{
+    list-style-type: none;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
