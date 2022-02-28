@@ -15,7 +15,18 @@ ul{
 }
 
 .main{
-    height: 20px;
-    width: 50px;
+   
     background-color: red;
+}
+
+.bg{
+    height: 344px;
+    width: 344px;
+    background-image: url("car.png");
+    background-repeat: no-repeat;
+    background-size: 344px 344px;
+    background-color: aqua;
+    background-attachment: fixed;
+
+
 }
