@@ -18,3 +18,12 @@ ul{
    
     background-color: red;
 }
+
+.bg{
+    height: 344px;
+    width: 344px;
+    background-image: url("car.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
