@@ -24,6 +24,8 @@ ul{
     width: 344px;
     background-image: url("car.png");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 344px 344px;
+    background-color: aqua;
+
 
 }
