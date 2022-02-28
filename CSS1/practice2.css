@@ -13,3 +13,9 @@ ul{
     display: flex;
     justify-content: space-between;
 }
+
+.main{
+    height: 20px;
+    width: 50px;
+    background-color: red;
+}
