@@ -1,5 +1,17 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+
 .main-div{
-    height: 50pc;
-    width: 50pc;
+    height: 20pc;
+    width: 20pc;
     background-color:crimson ;
+    color: white;
+    margin: 4px;
+    padding: 10px;
+    border: 10px solid black;
+    border-radius: 20px;
+    overflow: hidden;
+  
 }
