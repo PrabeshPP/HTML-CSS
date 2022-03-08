@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    height: 10vh;
+    width: 100vw;
+    background-color: crimson;
+    border: 2px solid black;
+    margin: 1px;
+    
+
+}
+
+header ul{
+    
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    color: white;
+    
+    
+}
+
+.content{
+
+    height: 90vh;
+    background-color: teal;
+}
+
+footer{
+    background-color: black;
+    color:white;
+}
+
+.center{
+    text-align: center;
+}
