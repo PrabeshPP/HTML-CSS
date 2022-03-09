@@ -1,0 +1,19 @@
+.box1{
+    height: 30px;
+    width: 50px;
+    background-color: red;
+   display: inline;
+}
+/* 
+dispaly:none
+this will remove the element from the DOM .And we can put any element at this element place.
+
+visibility:hidden would help to reserve the place of the element that has be removed from the DOM.
+*/
+
+.box2{
+    height: 30px;
+    width: 50px;
+    background-color: blue;
+    display: inline;
+}
