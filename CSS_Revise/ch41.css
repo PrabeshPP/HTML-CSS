@@ -1,0 +1,10 @@
+p{
+    background-color: red;
+    width: 134px;
+    height: 225px;
+    color: white;
+    /* text-decoration: underline; */
+    text-transform: capitalize;
+    font-family: 'Dancing Script', cursive;
+    font-size: 44px;
+}
