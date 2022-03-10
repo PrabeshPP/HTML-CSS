@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+ul{
+    /* list-style: none;
+    display: flex; */
+}
+
+header{
+background-color: black;
+color: white;
+height: 10vh;
+width: 100vw;
+}
+
+
+
+.container{
+    background-color: crimson;
+    height: 50vh;
+    width: 50vw;
+    margin: auto;
+}
+
+.container p{
+    border: 2px solid yellowgreen;
+    text-align: center;
+}
+
+.box{
+    height: 10vh;
+    width: 10vw;
+    background-color: aliceblue;
+}
