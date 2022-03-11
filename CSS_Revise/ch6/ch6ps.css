@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+}
+
+
+
+.header{
+    background-color:black;
+    width: 100vw;
+    height: 66px;
+}
+
+.ul{
+    padding: 24px;
+}
+
+
+li{
+    color:white;
+    list-style:none;
+    display: inline;
+    padding: 5vw;
+   
+}
+
+.right{
+    background-color: crimson;
+    width: 45vw;
+    height: 80vh;
+    float: right;
+}
+
+.left{
+    background-color: purple;
+    width: 45vw;
+    height: 80vh;
+    float: left;
+}
