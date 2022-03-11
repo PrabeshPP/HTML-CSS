@@ -11,7 +11,9 @@ clear property is usef to remove the float property
     height: 245px;
     width: 344px;
     background-color: crimson;
+    background-color: crimson;
     float: left;
+    
 
 }
 
