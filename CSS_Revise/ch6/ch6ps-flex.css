@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+}
+
+.header{
+    background-color:black;
+    width: 100vw;
+    height: 66px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li{
+    color:white;
+    list-style:none;
+    
+}
+
+.right{
+    background-color: crimson;
+    width: 45vw;
+    height: 80vh;
+}
+
+
+
+.left{
+    background-color: purple;
+    width: 45vw;
+    height: 80vh;
+}
+
+.box1{
+    display: flex;
+}
