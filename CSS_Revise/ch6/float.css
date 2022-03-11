@@ -1,0 +1,28 @@
+
+/*
+using the float property woul move the element,
+left and right !
+
+clear property is usef to remove the float property
+
+*/
+
+.box1{
+    height: 245px;
+    width: 344px;
+    background-color: crimson;
+    background-color: crimson;
+    float: left;
+    
+
+}
+
+
+.box2{
+    height: 245px;
+    width: 344px;
+    background-color: blue;
+    float:right;
+    clear: right;
+
+}

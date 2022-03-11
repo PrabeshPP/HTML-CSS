@@ -1,0 +1,60 @@
+/*
+flex-direction:row would render the element in a row
+column:would render the element in a column
+column-reverse:would render the element in a column but in the reverse direction i.e the first element
+,would come to the last position
+
+same goes for the row-reverse
+
+
+flex-wrap:it would adjust the element as per the availabilty of the screen size
+
+*/
+
+
+.container{
+    display: flex;
+    /* flex-direction:row-reverse; */
+   justify-content: center;
+   align-content: center;
+}
+
+
+
+
+.box1{
+    height: 245px;
+    width: 100px;
+    background-color: crimson;
+    flex-grow: 3;
+  
+
+}
+
+
+.box2{
+    height: 245px;
+    width: 100px;
+    background-color: blue;
+    flex-grow: 1;
+    
+
+}
+
+.box3{
+    height: 245px;
+    width: 100px;
+    background-color: rgb(52, 255, 1);
+    flex-grow: 1;
+    
+
+}
+.box4{
+    height: 245px;
+    width: 100px;
+    background-color: rgb(255, 0, 140);
+    flex-grow: 1;
+    
+
+}
+
