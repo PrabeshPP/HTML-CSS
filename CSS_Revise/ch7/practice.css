@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+}
+
+
+header{
+    background-color: black;
+    height: 10vh
+
+}
+
+
+ul{
+    display:inline-grid;
+    list-style: none;
+    grid-template-columns: auto auto;
+    justify-content: space-around;
+    color: white;
+    
+}
+
+ul li{
+    margin: 0 23px;
+
+}
