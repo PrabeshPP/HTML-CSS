@@ -1,13 +1,22 @@
 .container{
     background-color: crimson;
-    height: 455px;
+    height: 40px;
+    width: 40px;
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
 }
+ @keyframes slidein {
+    from {
+        margin-left: 100%;
+        
+      }
+    
+      to {
+        margin-left: 0%;
+       
+      }
+ }
 
-.box1{
-    border: 2px solid black;
-    background-color: aqua;
-    /* transform: skew(10deg,0deg); */
-    transform:rotateZ(20deg) ;
-    transform-origin: 0;
 
-}
